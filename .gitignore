@@ -1,0 +1,59 @@
+# Byte-compiled / cache / virtual env
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.whl
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python test and coverage
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Local config and secrets
+*.env
+.env.*
+*.local
+config.py
+
+# Lock files
+uv.lock
+
+# PDF and other docs
+*.pdf
+
+# Streamlit cache
+.streamlit/
+
+# Ignore backend secrets
+backend/__pycache__/
+
+# Ignore frontend cache
+frontend/__pycache__/
