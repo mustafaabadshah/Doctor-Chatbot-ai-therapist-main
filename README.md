@@ -21,7 +21,7 @@ A humanized, multimodal AI project that brings the compassion and support of a d
 ## 🚀 Quick Start
 1. **Clone the repo:**
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/mustafaabadshah/Doctor-Chatbot-ai-therapist-main
    cd your-repo-name
    ```
 2. **Install dependencies:**
